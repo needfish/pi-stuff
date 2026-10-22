@@ -69,7 +69,7 @@
 		"bashMode": "orangeDark"
 	},
 	"export": {
-		"pageBg": "okhsl(0 0% 96%)",
+		"pageBg": "okhsl(0 0% 100%)",
 		"cardBg": "okhsl(0 0% 98%)",
 		"infoBg": "okhsl(28 100% 90%)"
 	}
