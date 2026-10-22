@@ -7,7 +7,8 @@
 		"muted": "okhsl(60 4% 40%)",
 		"orange": "okhsl(28 100% 42%)",
 		"orangeDark": "okhsl(28 100% 30%)",
-		"gray": "okhsl(60 4% 25%)"
+		"gray": "okhsl(60 4% 25%)",
+		"green": "okhsl(145 100% 30%)"
 	},
 	"colors": {
 		"accent": "orange",
@@ -46,7 +47,7 @@
 		"mdQuoteBorder": "muted",
 		"mdHr": "muted",
 		"mdListBullet": "orange",
-		"toolDiffAdded": "gray",
+		"toolDiffAdded": "green",
 		"toolDiffRemoved": "orangeDark",
 		"toolDiffContext": "muted",
 		"syntaxComment": "okhsl(60 4% 45%)",
