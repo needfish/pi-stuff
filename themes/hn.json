@@ -7,6 +7,7 @@
 		"muted": "okhsl(0 1% 40%)",
 		"orange": "okhsl(28 100% 42%)",
 		"orangeDark": "okhsl(28 100% 30%)",
+		"blue": "okhsl(250 80% 38%)",
 		"gray": "okhsl(0 1% 25%)",
 		"green": "okhsl(145 100% 30%)"
 	},
@@ -66,7 +67,7 @@
 		"thinkingHigh": "okhsl(28 90% 38%)",
 		"thinkingXhigh": "okhsl(28 100% 36%)",
 		"thinkingMax": "okhsl(28 100% 32%)",
-		"bashMode": "orangeDark"
+		"bashMode": "blue"
 	},
 	"export": {
 		"pageBg": "okhsl(0 0% 100%)",
