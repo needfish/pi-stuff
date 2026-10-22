@@ -22,18 +22,18 @@
 		"dim": "okhsl(0 1% 55%)",
 		"text": "text",
 		"thinkingText": "okhsl(0 1% 42%)",
-		"selectedBg": "okhsl(0 1% 82%)",
-		"scrollbarTrack": "okhsl(0 1% 82%)",
+		"selectedBg": "okhsl(0 1% 89%)",
+		"scrollbarTrack": "okhsl(0 1% 89%)",
 		"scrollbarThumb": "okhsl(0 1% 60%)",
 		"searchMatchBg": "okhsl(28 100% 85%)",
 		"searchMatchText": "text",
-		"userMessageBg": "okhsl(0 1% 94%)",
+		"userMessageBg": "okhsl(0 1% 96%)",
 		"userMessageText": "text",
-		"customMessageBg": "okhsl(0 1% 94%)",
+		"customMessageBg": "okhsl(0 1% 96%)",
 		"customMessageText": "muted",
 		"customMessageLabel": "orange",
-		"toolPendingBg": "okhsl(0 1% 93%)",
-		"toolSuccessBg": "okhsl(0 1% 93%)",
+		"toolPendingBg": "okhsl(0 1% 96%)",
+		"toolSuccessBg": "okhsl(0 1% 96%)",
 		"toolErrorBg": "okhsl(28 100% 88%)",
 		"toolTitle": "orangeDark",
 		"toolOutput": "text",
@@ -70,7 +70,7 @@
 	},
 	"export": {
 		"pageBg": "okhsl(0 0% 100%)",
-		"cardBg": "okhsl(0 0% 98%)",
+		"cardBg": "okhsl(0 0% 99%)",
 		"infoBg": "okhsl(28 100% 90%)"
 	}
 }
